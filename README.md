@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ai-act and I'm still new at github.
+- 👋 Hi, I’m Wisnu Iskandar and I'm still new at github.
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on start-up business opportunity
